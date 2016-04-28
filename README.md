@@ -1,4 +1,4 @@
-# Introduction to R: One Day Workshop
+# Leuven R Workshop: Reproducible Research and Workflow with RMarkdown and ProjectTemplate
 # Workshop Materials
 
 * Download workshop materials and unzip them to a folder on your computer:
